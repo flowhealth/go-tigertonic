@@ -3,7 +3,7 @@ package mocking
 
 import (
 	"fmt"
-	"github.com/rcrowley/go-tigertonic"
+	"github.com/flowhealth/go-tigertonic"
 	"net/http"
 	"net/url"
 )
